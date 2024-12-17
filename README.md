@@ -1,0 +1,1 @@
+# stanford-dogs-resnet
